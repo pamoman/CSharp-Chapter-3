@@ -6,7 +6,7 @@ namespace CSharp_Chapter_3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Test");
+            Console.WriteLine("Uppgift 3.1");
         }
     }
 }
